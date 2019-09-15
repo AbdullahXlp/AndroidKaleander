@@ -1,0 +1,2 @@
+# AndroidKaleander
+check android permision
